@@ -1,0 +1,11 @@
+.logo {
+  width: 10vw;
+  text-align: center;
+}
+
+.image-element {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
